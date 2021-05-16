@@ -1,0 +1,80 @@
+#nn{
+    border:solid rgb(17, 1, 1);
+    
+      font-size: 28px;
+      font-family: inherit;
+      text-align:center;
+      height: 800px;
+      width: 100%;
+      background-image: url(https://1.bp.blogspot.com/-KSbHmMOBpq8/Xkg3jlXKn0I/AAAAAAAAF0k/o52XfECH1vc_wR3qji2YWZK4hioy1kAOwCLcBGAsYHQ/s1600/pexels-photo-96612.jpeg) ; 
+      background-position:center;
+      background-attachment: fixed;
+      background-position-x:bottom ;
+
+    }
+    
+
+    
+
+    li{
+        color: black;
+        padding-right: 30px;
+        display: inline-block
+
+
+
+
+    }
+    ul{
+        border-top: 200px;
+        padding-top: 10px;
+    }
+    a{
+        text-decoration: none;
+    }
+    a:hover{ text-decoration:black
+            
+    }
+
+
+ .noon{
+
+    color: red;
+    font-size: 20px;
+    font-family: fantasy;
+    border:solid rgb(12, 8, 39) 5px;
+    margin-bottom: 10px;   
+    text-align: center;
+    background-position:center;
+    background-position-x: center;
+    padding: 60px;
+    
+    height: 10px;
+    width: 900px;
+   
+  
+ }
+  #foter{
+
+    color: slateblue;
+    font-size: 15px;
+    font-style: oblique;
+    padding-top: 20px;   
+ border: solid rebeccapurple 9px;
+ margin: 30px;
+ padding-left: 500px;
+
+}
+
+
+
+h3{
+    color: red;
+
+
+}
+
+
+
+
+
