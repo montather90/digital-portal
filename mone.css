@@ -1,78 +1,99 @@
-#nn{
-    border:solid rgb(17, 1, 1);
+#bar{
+    margin-bottom: 5px;
+    color: burlywood;
+    background-color: cornflowerblue;
+    text-align: right;
     
-      font-size: 28px;
-      font-family: inherit;
-      text-align:center;
-      height: 800px;
-      width: 100%;
-      background-image: url(https://1.bp.blogspot.com/-KSbHmMOBpq8/Xkg3jlXKn0I/AAAAAAAAF0k/o52XfECH1vc_wR3qji2YWZK4hioy1kAOwCLcBGAsYHQ/s1600/pexels-photo-96612.jpeg) ; 
-      background-position:center;
-      background-attachment: fixed;
-      background-position-x:bottom ;
+}
+h2{
+    font-size: 18px;
+    color: rgb(241, 225, 228);
+    height: 50px;
+    background-color: rgb(51, 56, 56);
 
+
+
+
+}
+
+
+
+
+
+#nn{  
+     margin-top: 60px;
+     margin-left: 1px;
+      font-family: serif;
+      font-size: 25px;
+      text-align:right;
+      height: 800px;
+      width: 1340px;
+      background-image: url(https://3.bp.blogspot.com/-RxKHOkSPPvU/Wi6lk8-iLAI/AAAAAAAAHxc/HBEgvNZgC0sVI6hvoXT2JVxCCO54fj5hwCLcBGAs/s1600/powerpoint-background-%2B%25282%2529.jpg) ;height: 1000px; 
+      padding-top: 0px;
+      background-size: 100%;
+      background-repeat: no-repeat;
+      background-position: bottom;
+
+
+      background-position:center;
+    }
+    *{
+        color: rgb(248, 245, 245);
     }
     
 
     
 
     li{
-        color: black;
+        margin-right: 50px;
+        color: rgb(7, 7, 7);
         padding-right: 30px;
-        display: inline-block
-
+        display: inline-block;
+        text-decoration:none;      
 
 
 
     }
     ul{
-        border-top: 200px;
-        padding-top: 10px;
+        margin-bottom: 200px;
+        width: 100%;
+        color: aliceblue;
+        border-top: 100px;
+        padding-top: 30px;
     }
     a{
-        text-decoration: none;
+        
+
     }
-    a:hover{ text-decoration:black
+    a:hover{ 
+        text-decoration:none;
+        background-color: brown;
+        
+        
             
     }
 
 
- .noon{
 
-    color: red;
-    font-size: 20px;
-    font-family: fantasy;
-    border:solid rgb(12, 8, 39) 5px;
-    margin-bottom: 10px;   
-    text-align: center;
-    background-position:center;
-    background-position-x: center;
-    padding: 60px;
-    
-    height: 10px;
-    width: 900px;
-   
-  
- }
+
   #foter{
+      background-color: rgb(101, 104, 109);
 
-    color: slateblue;
+    color: rgb(239, 238, 245);
     font-size: 15px;
     font-style: oblique;
     padding-top: 20px;   
- border: solid rebeccapurple 9px;
- margin: 30px;
+ border: solid rgb(65, 64, 66) 5px;
+ margin: 10px;
  padding-left: 500px;
 
 }
 
 
 
-h3{
-    color: red;
 
 
-}
+
 
 
 
